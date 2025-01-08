@@ -1,4 +1,4 @@
-# Secure JavaScript Form Validation
+# Form Validation
 A robust and secure JavaScript form validation system designed to ensure accurate user input with clear error alerts and success notifications. This project validates full name, email, and password fields, featuring a responsive design and professional styling.
 ## Features
 - **Full Name Validation**: Ensures the full name field is not left empty.
